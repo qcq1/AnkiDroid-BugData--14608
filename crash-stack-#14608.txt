@@ -1,0 +1,4 @@
+2023-12-22 22:12:53.622 30121-30207 ScopedStorageService    com.ichi2.anki.debug                 I  isLegacyStorage(): current dir: /storage/emulated/0/AnkiDroid
+                                                                                                    scoped external dirs: /storage/emulated/0/Android/data/com.ichi2.anki.debug/files
+                                                                                                    scoped internal dir: /data/user/0/com.ichi2.anki.debug/files
+2023-12-22 22:12:53.622 30121-30207 ScopedStorageService    com.ichi2.anki.debug                 I  isLegacyStorage(): true
